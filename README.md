@@ -122,7 +122,7 @@ En está sección podremos categorizar nuestros productos
 
 ![DUOLINGO](JoseIgnacio.jpeg)
 
-![DUOLINGO](lider.jpeg)
+![DUOLINGO](Lider.jpg)
 
 ![DUOLINGO](Diana.jpeg)
 
