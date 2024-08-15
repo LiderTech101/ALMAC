@@ -61,7 +61,7 @@ ALMAC ha creado un sistema integral de gestión de inventarios y logística usan
 Diagrama de la Base de Datos (ALMAC CONTROL DE ALMACENES) :
 
 ### Diagrama de nuestra base de datos:
-  ![Diagrama de la base de datos](img/Diagramabd.jpeg)
+  ![Diagrama de la base de datos](Diagramabd.jpeg)
 
 ### Login:
 
