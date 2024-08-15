@@ -67,37 +67,37 @@ Diagrama de la Base de Datos (ALMAC CONTROL DE ALMACENES) :
 
 Para entrar se necesita un usuario y una contraseña
 
-   ![Image text](img/Login.jpeg)
+   ![Image text](Login.jpeg)
 
 ### Interfaz Principal
- ![Interfaz Principal](img/Menu.jpeg)
+ ![Interfaz Principal](Menu.jpeg)
 
 ### Usuario: 
 
 Habra una ventana donde estaran los datos personales del usuario que haya ingresado   
 
-![usuario](img/.jpeg)
+![usuario](.jpeg)
 
 El Administrador tendra acceso a hacer todo tipo de modificaciones con respecto a la interfaz de usarios 
 
-![admin](img/.jpeg)
+![admin](.jpeg)
 
 Mientras que el empleado no tendra acceso y no podra ver esta interfaz
 
-![vendedor](img/.jpeg)
+![vendedor](.jpeg)
 
 
 ### Interfaz Productos:
 
 Aqui se agregaran los productos de ALMAC
 
-![Interfaz de Producto](img/Producto.jpeg)
+![Interfaz de Producto](Producto.jpeg)
 
 ### Interfaz Categoria:
 
 En está sección podremos categorizar nuestros productos
 
-![Interfaz de Categoria](img/Categoria.jpeg)
+![Interfaz de Categoria](Categoria.jpeg)
 
 
 
@@ -120,11 +120,11 @@ En está sección podremos categorizar nuestros productos
 
 ¡Gracias por tu interés en el proyecto "ALMAC"!
 
-![DUOLINGO](img/JoseIgnacio.jpeg)
+![DUOLINGO](JoseIgnacio.jpeg)
 
-![DUOLINGO](img/lider.jpeg)
+![DUOLINGO](lider.jpeg)
 
-![DUOLINGO](img/Diana.jpeg)
+![DUOLINGO](Diana.jpeg)
 
 
-![DUOLINGO](img/Mauricio.jpeg) 
+![DUOLINGO](Mauricio.jpeg) 
