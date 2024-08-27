@@ -129,6 +129,9 @@ La metodología Scrum ofrece una estructura ágil y colaborativa que permite ada
 ### Diagrama de Secuencia:
   ![Diagrama de Secuencia](Secuencia.jpeg)
 
+### Diagrama de Negocio:
+  ![Diagrama de Negocio](Negocio.jpeg)
+
 ### Caso de uso :
   ![Caso de uso](Casodeuso.jpeg)
 
