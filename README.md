@@ -124,49 +124,49 @@ La metodología Scrum ofrece una estructura ágil y colaborativa que permite ada
 
 
 ### Diagrama de Clases:
-  ![Diagrama de Clases](img/Diagramabd.jpeg)
+  ![Diagrama de Clases](Diagramabd.jpeg)
 
 ### Diagrama de Secuencia:
-  ![Diagrama de Secuencia](img/Secuencia.jpeg)
+  ![Diagrama de Secuencia](Secuencia.jpeg)
 
 ### Caso de uso :
-  ![Caso de uso](img/Casodeuso.jpeg)
+  ![Caso de uso](Casodeuso.jpeg)
 
 
 ### Login:
 
 Para entrar se necesita un usuario y una contraseña
 
-  ![Login](img/Login.jpeg)
+  ![Login](Login.jpeg)
 
 ### Interfaz Principal
- ![Interfaz Principal](img/Menu.jpeg)
+ ![Interfaz Principal](Menu.jpeg)
 
 
 ### Interfaz Productos:
 
 Aqui se agregaran los productos de ALMAC
 
-![Interfaz de Producto](img/Producto.jpeg)
+![Interfaz de Producto](Producto.jpeg)
 
 ### Interfaz Categoria:
 
 En está sección podremos categorizar nuestros productos
 
-![Interfaz de Categoria](img/Categoria.jpeg)
+![Interfaz de Categoria](Categoria.jpeg)
 
 
 ### Bitacora: 
 
 Rutas de distribución 
 
-![Cotoca](img/Almacen Cotoca.jpeg)
+![Cotoca](Almacen Cotoca.jpeg)
 
-![Torno](img/Almacen El Torno.jpeg)
+![Torno](Almacen El Torno.jpeg)
 
-![Viruviru](img/Almacen Viruviru.jpeg)
+![Viruviru](Almacen Viruviru.jpeg)
 
-![Warnes](img/Almacen Warnes.jpeg)
+![Warnes](Almacen Warnes.jpeg)
 
 ## Contenido
 
@@ -186,11 +186,11 @@ Rutas de distribución
 
 ¡Gracias por tu interés en el proyecto "ALMAC"!
 
-![DUOLINGO](img/JoseIgnacio.jpeg)
+![DUOLINGO](JoseIgnacio.jpeg)
 
-![DUOLINGO](img/lider.jpeg)
+![DUOLINGO](lider.jpeg)
 
-![DUOLINGO](img/Diana.jpeg)
+![DUOLINGO](Diana.jpeg)
 
 
-![DUOLINGO](img/Mauricio.jpeg) 
+![DUOLINGO](Mauricio.jpeg) 
