@@ -52,55 +52,121 @@ En el desarrollo de este proyecto, se asignaron los siguientes roles basados en 
 
 ¡Bienvenido al repositorio del proyecto "ALMAC - Sistema de Información 3" 
 
+
+
+## Fase 1: Identificación y recolección de requisitos
+
 ## Descripción
 ALMAC ha creado un sistema integral de gestión de inventarios y logística usando C# con interfaz gráfica Windows Forms y arquitectura en capas. Conectado a una base de datos Oracle, el sistema ofrece funcionalidades como administración de productos, registros de clientes, generación de reportes, control de ubicaciones y seguimiento de personal y clientes mediante dashboards. Este programa mejora la eficiencia operativa y la satisfacción del cliente al resolver problemas de inventarios, distribución y administración logística.
 
+## Area de enfoque 
+Creación y desarrollo de un sistema de gestión de inventarios y logística para ALMAC.
 
-## Contenido del Avance
+## Problema especifico a resollver 
+El problema específico a resolver es el manejo ineficiente de inventarios y la gestión logística en los almacenes de ALMAC, lo cual ha generado inconvenientes como discrepancias entre el inventario registrado y el real, demoras en la distribución de productos, y creciente insatisfacción de los clientes debido a errores en las entregas y productos fuera de stock.
 
-Diagrama de la Base de Datos (ALMAC CONTROL DE ALMACENES) :
+## Requisitos recopilados:
 
-### Diagrama de nuestra base de datos:
-  ![Diagrama de la base de datos](Diagramabd.jpeg)
+## Requisitos Funcionales
+
+Sistema de Autenticación
+
+Login Seguro: Implementar una pantalla de inicio de sesión para administradores registrados, utilizando autenticación mediante usuario y contraseña.
+Acceso Restringido: Solo los administradores registrados deben poder acceder al sistema.
+Gestión de Inventario
+
+Registro de Productos: Permitir el registro de productos por categoría con atributos específicos.
+Atributos de Productos: Incluir categoría, nombre, descripción, código y cantidad por caja (1200 unidades por caja).
+Distribución y Almacenamiento
+
+Distribución en Bloques: Gestionar el inventario distribuido en 5 bloques de almacenamiento, cada uno con capacidad de 600 cajas, para un total de 3000 cajas.
+Registro de Movimientos
+
+Entradas y Salidas de Productos: Registrar detalladamente las entradas y salidas de productos, incluyendo el nombre del conductor, placa del vehículo, hora y fecha, y tipo de movimiento (venta o transferencia).
+Tipos de Movimientos: Registrar entradas de productos, salidas para venta y movimientos a otro almacén.
+Reportes y Control
+
+Generación de Reportes: Generar reportes periódicos sobre el inventario y los movimientos de productos.
+Control y Monitoreo: Monitorear en tiempo real la disponibilidad de productos por bloque, con alertas de baja disponibilidad o exceso de stock.
+Interfaz de Usuario
+
+Interfaz Intuitiva: Proporcionar un panel de control con vista general del inventario y movimientos, además de funciones de búsqueda, filtrado de productos, y exportación de datos a formatos como CSV, Excel, y PDF.
+Identificador Único de Almacén
+
+Crear un identificador único para cada almacén que permita rastrear y gestionar la entrada y salida de productos entre almacenes de acuerdo con los bloques establecidos.
+Rol o Usuario Específico
+
+Crear un rol o usuario específico para cada almacén con permisos limitados a la administración de ese almacén, asegurando que solo puedan visualizar y manejar datos relacionados con su almacén asignado.
+
+## Requisitos No Funcionales
+
+Seguridad
+
+Seguridad de Datos: Implementar encriptación de datos sensibles y configurar copias de seguridad automáticas y periódicas para proteger la información del sistema.
+Escalabilidad
+
+Escalabilidad del Sistema: Diseñar el sistema con la capacidad de gestionar más bloques o productos adicionales en el futuro y adaptarse a cambios en los procesos de almacenamiento y distribución.
+Interfaz de Usuario
+
+Usabilidad: La interfaz debe ser intuitiva y fácil de usar, permitiendo una navegación sencilla y eficiente para los administradores del sistema.
+
+## Fase 2: Selección de Metodologia y diseño del sistema
+
+## Metodología de desarrollo seleccionada:
+
+La metodología que se utilizó para el desarrollo de este proyecto fué la SCRUM
+
+## Justificación de la selección:
+
+La metodología Scrum ofrece una estructura ágil y colaborativa que permite adaptarse a cambios, entregar funcionalidades clave de manera incremental, y mejorar continuamente, lo que la convierte en la elección ideal para el desarrollo del sistema de gestión de inventarios y logística de ALMAC.
+
+## Arquitectura del sistema
+
+
+### Diagrama de Clases:
+  ![Diagrama de Clases](img/Diagramabd.jpeg)
+
+### Diagrama de Secuencia:
+  ![Diagrama de Secuencia](img/Secuencia.jpeg)
+
+### Caso de uso :
+  ![Caso de uso](img/Casodeuso.jpeg)
+
 
 ### Login:
 
 Para entrar se necesita un usuario y una contraseña
 
-   ![Image text](Login.jpeg)
+  ![Login](img/Login.jpeg)
 
 ### Interfaz Principal
- ![Interfaz Principal](Menu.jpeg)
-
-### Usuario: 
-
-Habra una ventana donde estaran los datos personales del usuario que haya ingresado   
-
-![usuario](.jpeg)
-
-El Administrador tendra acceso a hacer todo tipo de modificaciones con respecto a la interfaz de usarios 
-
-![admin](.jpeg)
-
-Mientras que el empleado no tendra acceso y no podra ver esta interfaz
-
-![vendedor](.jpeg)
+ ![Interfaz Principal](img/Menu.jpeg)
 
 
 ### Interfaz Productos:
 
 Aqui se agregaran los productos de ALMAC
 
-![Interfaz de Producto](Producto.jpeg)
+![Interfaz de Producto](img/Producto.jpeg)
 
 ### Interfaz Categoria:
 
 En está sección podremos categorizar nuestros productos
 
-![Interfaz de Categoria](Categoria.jpeg)
+![Interfaz de Categoria](img/Categoria.jpeg)
 
 
+### Bitacora: 
 
+Rutas de distribución 
+
+![Cotoca](img/Almacen Cotoca.jpeg)
+
+![Torno](img/Almacen El Torno.jpeg)
+
+![Viruviru](img/Almacen Viruviru.jpeg)
+
+![Warnes](img/Almacen Warnes.jpeg)
 
 ## Contenido
 
@@ -120,11 +186,11 @@ En está sección podremos categorizar nuestros productos
 
 ¡Gracias por tu interés en el proyecto "ALMAC"!
 
-![DUOLINGO](JoseIgnacio.jpeg)
+![DUOLINGO](img/JoseIgnacio.jpeg)
 
-![DUOLINGO](LiderM.jpg)
+![DUOLINGO](img/lider.jpeg)
 
-![DUOLINGO](Diana.jpeg)
+![DUOLINGO](img/Diana.jpeg)
 
 
-![DUOLINGO](Mauricio.jpeg) 
+![DUOLINGO](img/Mauricio.jpeg) 
