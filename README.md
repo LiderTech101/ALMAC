@@ -160,13 +160,13 @@ En está sección podremos categorizar nuestros productos
 
 Rutas de distribución 
 
-![Cotoca](Almacen Cotoca.jpeg)
+![Cotoca](Cotoca.jpeg)
 
-![Torno](Almacen El Torno.jpeg)
+![Torno](Torno.jpeg)
 
-![Viruviru](Almacen Viruviru.jpeg)
+![Viruviru](Viruviru.jpeg)
 
-![Warnes](Almacen Warnes.jpeg)
+![Warnes](Warnes.jpeg)
 
 ## Contenido
 
