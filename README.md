@@ -191,13 +191,8 @@ Aqui se agregaran los datos correspondientes a los almacenes que tiene la empres
 
 Rutas de distribución 
 
-![Cotoca](Cotoca.jpeg)
+![Ubicacion](Ubicacion.jpeg)
 
-![Torno](Torno.jpeg)
-
-![Viruviru](Viruviru.jpeg)
-
-![Warnes](Warnes.jpeg)
 
 
 
