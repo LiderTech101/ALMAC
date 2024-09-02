@@ -209,7 +209,7 @@ Aqui se agregaran los datos correspondientes a los almacenes que tiene la empres
 
 - `Ingresa a Nuestra Presentación:`: <p>Ingresa al enlace para ver más detalles en nuestra presentación digital: <a href="https://www.canva.com/design/DAGNjMyvFaM/AJ8pb1X0192KMrZ7PSx_nw/view?utm_content=DAGNjMyvFaM&utm_campaign=designshare&utm_medium=link&utm_source=editor">PRESENTACIÓN.com</a>.</p>
 
-- `Ingresa a Nuestra Documentación:`:<p>Ingrese al enlace para saber mas de nuestro probrama para control de almacenes ALMAC: <a href="">Documentacion.com</a>.<p>
+- `Ingresa a Nuestra Documentación:`:<p>Ingrese al enlace para saber mas de nuestra documentación ALMAC: <a href="">Documentacion.com</a>.<p>
 
 
 - `Ingresa a Nuestro Kanban:`:<p>Ingrese al enlace para saber mas de nuestro Kanban ALMAC: <a href="https://sisalmac.atlassian.net/jira/software/projects/DI/settings/access?cloudId=bf9f9412-ee6d-499e-8f1a-d4717713cf50&showAssignee=on&showDaysInColumn=on&showDueDate=on&showEpics=on&showEstimate=on&showIssueKey=on&showIssueLinksStats=off&showIssueType=on&showLabels=on&showPriority=on&showStatuses=on&showVersions=on">Kanban.com</a>.<p>
