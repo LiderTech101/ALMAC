@@ -124,52 +124,87 @@ La metodología Scrum ofrece una estructura ágil y colaborativa que permite ada
 
 
 ### Diagrama de Clases:
-  ![Diagrama de Clases](Diagramabd1.jpeg)
+  ![Diagrama de Clases](img/Diagramabd.jpeg)
 
 ### Diagrama de Secuencia:
-  ![Diagrama de Secuencia](Secuencia.jpeg)
-
-### Diagrama de Negocio:
-  ![Diagrama de Negocio](Negocio.jpeg)
+  ![Diagrama de Secuencia](img/Secuencia.jpeg)
 
 ### Caso de uso :
-  ![Caso de uso](Casodeuso.jpeg)
+  ![Caso de uso](img/Casodeuso.jpeg)
+
+
+### Datos de Almacenes:
+Para optimizar las operaciones dentro de los almacenes, fue necesario realizar un análisis detallado de las dimensiones físicas del almacén, así como de los bloques de almacenamiento. Este análisis incluyó la redimensión de los bloques para determinar la capacidad máxima de cajas que pueden ser almacenadas en cada uno, teniendo en cuenta su tamaño. Además, se evaluó la cantidad y tipo de productos que se almacenarán dentro de cada caja, categorizándolos según las necesidades operativas de la empresa.
+
+  ![Cuadro de Organización del Almacen](img/CuadroAlmac.jpeg)
+
+
 
 
 ### Login:
 
-Para entrar se necesita un usuario y una contraseña
+Para entrar se necesita un usuario y una contraseña y colocar correctamente el captchat
 
-  ![Login](Login.jpeg)
+  ![Login](img/Login.jpeg)
 
-### Interfaz Principal
- ![Interfaz Principal](Menu.jpeg)
+### Interfaz Usuario
+ ![Interfaz de Usuario](img/Usuario.jpeg)
+
+
+ ### Interfaz Categoria:
+
+En está sección podremos categorizar nuestros productos
+
+![Interfaz de Categoria](img/Categoria.jpeg)
 
 
 ### Interfaz Productos:
 
 Aqui se agregaran los productos de ALMAC
 
-![Interfaz de Producto](Producto.jpeg)
+![Interfaz de Producto](img/Producto.jpeg)
 
-### Interfaz Categoria:
+### Interfaz Caja:
 
-En está sección podremos categorizar nuestros productos
+Aqui se agregaran la cantidad de cajas definiendo el ripo de producto y bloque al cual sera asignado
 
-![Interfaz de Categoria](Categoria.jpeg)
+![Interfaz de Caja](img/Caja.jpeg)
+
+
+### Interfaz Almacen:
+
+Aqui se agregaran los datos correspondientes a los almacenes que tiene la empresa ALMAC
+
+![Interfaz de Almacen](img/Almacen.jpeg)
+
+
+### Interfaz Bloque:
+
+Aqui se agregaran los datos correspondientes a los almacenes que tiene la empresa ALMAC
+
+![Interfaz Bloque](img/Bloque.jpeg)
 
 
 ### Bitacora: 
 
 Rutas de distribución 
 
-![Cotoca](Cotoca.jpeg)
+![Cotoca](img/Cotoca.jpeg)
 
-![Torno](Torno.jpeg)
+![Torno](img/Torno.jpeg)
 
-![Viruviru](Viruviru.jpeg)
+![Viruviru](img/Viruviru.jpeg)
 
-![Warnes](Warnes.jpeg)
+![Warnes](img/Warnes.jpeg)
+
+
+
+### Acerca de :
+
+Aqui se agregaran los datos correspondientes a los almacenes que tiene la empresa ALMAC
+
+![Quienes Somos](img/Acerca.jpeg)
+
 
 ## Contenido
 
@@ -189,11 +224,11 @@ Rutas de distribución
 
 ¡Gracias por tu interés en el proyecto "ALMAC"!
 
-![DUOLINGO](JoseIgnacio.jpeg)
+![DUOLINGO](img/JoseIgnacio.jpeg)
 
-![DUOLINGO](lider.jpeg)
+![DUOLINGO](img/lider.jpeg)
 
-![DUOLINGO](Diana.jpeg)
+![DUOLINGO](img/Diana.jpeg)
 
 
-![DUOLINGO](Mauricio.jpeg) 
+![DUOLINGO](img/Mauricio.jpeg) 
