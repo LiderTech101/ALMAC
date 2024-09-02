@@ -148,6 +148,8 @@ Para entrar se necesita un usuario y una contraseña y colocar correctamente el 
   ![Login](Login.jpeg)
 
 ### Interfaz Usuario
+
+En está sección registrara los usuarios con los datos solicitados y se le asignara un rol para acceder al progrma
  ![Interfaz de Usuario](Usuario.jpeg)
 
 
