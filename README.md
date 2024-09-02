@@ -189,10 +189,17 @@ Aqui se agregaran los datos correspondientes a los almacenes que tiene la empres
 
 ### Bitacora: 
 
-Rutas de distribución 
+Bitacora de ALMAC 
 
 ![Ubicacion](Bitacora.jpeg)
 
+
+
+### Ubiacion: 
+
+Ubicación de Almacenes ALMAC
+
+![Ubicacion](Ubicacion.jpeg)
 
 
 
