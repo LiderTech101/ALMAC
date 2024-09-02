@@ -191,7 +191,7 @@ Aqui se agregaran los datos correspondientes a los almacenes que tiene la empres
 
 Rutas de distribución 
 
-![Ubicacion](Ubicacion.jpeg)
+![Ubicacion](Bitacora.jpeg)
 
 
 
